@@ -1,0 +1,7 @@
+{
+  "name": "ionic-with-redux-toolkit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
